@@ -102,3 +102,5 @@ Usaría sobrecarga de métodos cuando se necesita realizar una misma operación,
 ## 9. Conclusión
 
 El uso de Git y GitHub permite controlar los cambios realizados en un proyecto, mantener un historial ordenado y trabajar de manera colaborativa. En esta práctica se aplicaron comandos básicos de Git junto con el desarrollo de casos en Java relacionados con condicionales, métodos, clases, objetos, sobrecarga, variables estáticas, listas y manejo básico de errores.
+
+Actualización: Se mejoró la documentación del proyecto y se verificó la estructura de archivos Java.
